@@ -38,6 +38,16 @@ $activeBorderColor = rgb(ffffff)
 $inactiveBorderColor = rgb(333333)
 ```
 
+## Recommended IDE Extensions
+
+To complete the minimalist experience in your code editor, install **Monochromator** by Josias Beem:
+
+- **VS Code:** Monochromator (josias-beem.monochromator)
+- **Cursor IDE:** Monochromator (josias-beem.monochromator)
+- **Antigravity:** Monochromator (josias-beem.monochromator)
+
+This distraction-free monochrome coding theme perfectly complements the minim system theme, maintaining the black and white aesthetic across your entire development environment.
+
 ## Screenshots
 
 [Add screenshots here]
