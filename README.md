@@ -11,23 +11,31 @@ A minimalist black and white theme for Omarchy Linux.
 
 ## Installation
 
+To install on your laptop or other machines:
+
 ```bash
 cd ~/.config/omarchy/themes/
-git clone https://github.com/YOUR_USERNAME/minim.git
+git clone https://github.com/jbondata/minim.git
 omarchy-theme-set minim
 ```
 
 ## Customization
 
-After installation, you may want to set minimal window gaps:
+You might also want to copy your custom Hyprland settings (1px gaps and white borders) to those machines:
 
-Edit `~/.config/hypr/looknfeel.conf`:
+Edit `~/.config/hypr/looknfeel.conf` and add:
 ```conf
 general {
     gaps_in = 1
     gaps_out = 1
     border_size = 1
 }
+```
+
+And if you want the white active window border:
+```conf
+$activeBorderColor = rgb(ffffff)
+$inactiveBorderColor = rgb(333333)
 ```
 
 ## Screenshots
