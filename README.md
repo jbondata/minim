@@ -2,6 +2,8 @@
 
 A minimalist black and white theme for Omarchy Linux.
 
+**Status:** Maintained
+
 ## Features
 
 - Pure black background (`#000000`)
